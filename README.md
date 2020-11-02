@@ -1,2 +1,2 @@
 # training
-Basic repository for training students about git basis
+Basic repository for training students about git basics
